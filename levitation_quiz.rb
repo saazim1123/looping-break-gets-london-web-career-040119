@@ -9,4 +9,5 @@ def levitation_quiz
      break
    end
  end
-  
+
+puts levitation_quizvi
