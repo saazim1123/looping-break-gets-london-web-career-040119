@@ -10,4 +10,4 @@ def levitation_quiz
    end
  end
 
-puts levitation_quizvi
+puts levitation_quiz
